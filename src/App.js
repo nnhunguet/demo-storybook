@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <FaceBook
-          title="Tây Tiến"
+          title="Tây Tiến111"
           desc="Tác phẩm Tây Tiến"
           imageURL="https://res.cloudinary.com/nnhungcoderx/image/upload/v1591289041/kmfgbgrpvxc4xiuwcdlc.jpg"
         />
